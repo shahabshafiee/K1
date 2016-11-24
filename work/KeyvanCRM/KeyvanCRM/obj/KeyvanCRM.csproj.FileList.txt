@@ -1,0 +1,16 @@
+bin\Debug\KeyvanCRM.exe
+bin\Debug\KeyvanCRM.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\KeyvanCRM.frmBase.resources
+obj\Debug\KeyvanCRM.Properties.Resources.resources
+obj\Debug\KeyvanCRM.csproj.GenerateResource.Cache
+obj\Debug\KeyvanCRM.exe
+obj\Debug\KeyvanCRM.pdb
+obj\Debug\KeyvanCRM.frmCardex.resources
+obj\Debug\KeyvanCRM.frmPurchase.resources
+obj\Debug\KeyvanCRM.exe.licenses
+obj\Debug\KeyvanCRM.frmPayment.resources
+obj\Debug\KeyvanCRM.frmStatus.resources
+obj\Debug\KeyvanCRM.frmCustomer.resources
+obj\Debug\KeyvanCRM.frmApplicationConsole.resources
+obj\Debug\KeyvanCRM.frmCustomerList.resources
